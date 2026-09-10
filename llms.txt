@@ -1,1 +1,114 @@
 
+# Public Relations Registry
+
+> Public Relations Registry is a structured editorial reference registry covering how public relations and communications operate across jurisdictions.
+
+Public Relations Registry provides neutral, comparable reference records for public relations, corporate affairs, media relations, public affairs, consumer communications, advertising and influencer disclosure, privacy, direct marketing, crisis management and cross-border communications.
+
+Each record is an editorial reference, not a marketing page, directory listing, agency recommendation, legal opinion or professional advice. Jurisdictional content should be used for initial market mapping and communications planning, then verified against current requirements with competent authorities and qualified advisers.
+
+## Primary pages
+
+- [Home](https://publicrelationsregistry.org/): Registry overview, coverage and record access.
+- [Jurisdictions](https://publicrelationsregistry.org/jurisdictions/): Complete jurisdiction directory.
+- [Privacy Policy](https://publicrelationsregistry.org/privacy-policy/): Privacy policy.
+- [Terms of Use](https://publicrelationsregistry.org/terms-of-use/): Terms of use.
+
+## International and regional records
+
+- [International](https://publicrelationsregistry.org/jurisdictions/international/): Cross-border public relations and communications, global ethics, country coordination, commercial disclosure, privacy, public affairs and crisis governance.
+- [Europe](https://publicrelationsregistry.org/jurisdictions/europe/): European communications, Brussels public affairs, EU consumer and digital regulation, GDPR, ePrivacy and country coordination.
+
+## European jurisdictions
+
+- [Austria](https://publicrelationsregistry.org/jurisdictions/austria/)
+- [Belgium](https://publicrelationsregistry.org/jurisdictions/belgium/)
+- [Bulgaria](https://publicrelationsregistry.org/jurisdictions/bulgaria/)
+- [Croatia](https://publicrelationsregistry.org/jurisdictions/croatia/)
+- [Czech Republic](https://publicrelationsregistry.org/jurisdictions/czech-republic/)
+- [Denmark](https://publicrelationsregistry.org/jurisdictions/denmark/)
+- [Finland](https://publicrelationsregistry.org/jurisdictions/finland/)
+- [France](https://publicrelationsregistry.org/jurisdictions/france/)
+- [Germany](https://publicrelationsregistry.org/jurisdictions/germany/)
+- [Greece](https://publicrelationsregistry.org/jurisdictions/greece/)
+- [Hungary](https://publicrelationsregistry.org/jurisdictions/hungary/)
+- [Ireland](https://publicrelationsregistry.org/jurisdictions/ireland/)
+- [Italy](https://publicrelationsregistry.org/jurisdictions/italy/)
+- [Luxembourg](https://publicrelationsregistry.org/jurisdictions/luxembourg/)
+- [Netherlands](https://publicrelationsregistry.org/jurisdictions/netherlands/)
+- [Norway](https://publicrelationsregistry.org/jurisdictions/norway/)
+- [Poland](https://publicrelationsregistry.org/jurisdictions/poland/)
+- [Portugal](https://publicrelationsregistry.org/jurisdictions/portugal/)
+- [Romania](https://publicrelationsregistry.org/jurisdictions/romania/)
+- [Slovakia](https://publicrelationsregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://publicrelationsregistry.org/jurisdictions/slovenia/)
+- [Spain](https://publicrelationsregistry.org/jurisdictions/spain/)
+- [Sweden](https://publicrelationsregistry.org/jurisdictions/sweden/)
+- [Switzerland](https://publicrelationsregistry.org/jurisdictions/switzerland/)
+
+## United Kingdom
+
+- [United Kingdom](https://publicrelationsregistry.org/jurisdictions/united-kingdom/)
+- [England and Wales](https://publicrelationsregistry.org/jurisdictions/united-kingdom/england-wales/)
+- [Northern Ireland](https://publicrelationsregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+- [Scotland](https://publicrelationsregistry.org/jurisdictions/united-kingdom/scotland/)
+
+## Asia-Pacific and Middle East
+
+- [Australia](https://publicrelationsregistry.org/jurisdictions/australia/)
+- [China](https://publicrelationsregistry.org/jurisdictions/china/)
+- [Hong Kong](https://publicrelationsregistry.org/jurisdictions/hong-kong/)
+- [India](https://publicrelationsregistry.org/jurisdictions/india/)
+- [Israel](https://publicrelationsregistry.org/jurisdictions/israel/)
+- [Japan](https://publicrelationsregistry.org/jurisdictions/japan/)
+- [New Zealand](https://publicrelationsregistry.org/jurisdictions/new-zealand/)
+- [Qatar](https://publicrelationsregistry.org/jurisdictions/qatar/)
+- [Saudi Arabia](https://publicrelationsregistry.org/jurisdictions/saudi-arabia/)
+- [Singapore](https://publicrelationsregistry.org/jurisdictions/singapore/)
+- [South Korea](https://publicrelationsregistry.org/jurisdictions/south-korea/)
+- [United Arab Emirates](https://publicrelationsregistry.org/jurisdictions/united-arab-emirates/)
+
+## Americas
+
+- [Brazil](https://publicrelationsregistry.org/jurisdictions/brazil/)
+- [Mexico](https://publicrelationsregistry.org/jurisdictions/mexico/)
+
+### Canada
+
+- [Canada](https://publicrelationsregistry.org/jurisdictions/canada/)
+- [Alberta](https://publicrelationsregistry.org/jurisdictions/canada/alberta/)
+- [British Columbia](https://publicrelationsregistry.org/jurisdictions/canada/british-columbia/)
+- [Ontario](https://publicrelationsregistry.org/jurisdictions/canada/ontario/)
+- [Québec](https://publicrelationsregistry.org/jurisdictions/canada/quebec/)
+
+### United States
+
+- [United States](https://publicrelationsregistry.org/jurisdictions/united-states/)
+- [California](https://publicrelationsregistry.org/jurisdictions/united-states/california/)
+- [Delaware](https://publicrelationsregistry.org/jurisdictions/united-states/delaware/)
+- [Florida](https://publicrelationsregistry.org/jurisdictions/united-states/florida/)
+- [Georgia](https://publicrelationsregistry.org/jurisdictions/united-states/georgia/)
+- [Illinois](https://publicrelationsregistry.org/jurisdictions/united-states/illinois/)
+- [Massachusetts](https://publicrelationsregistry.org/jurisdictions/united-states/massachusetts/)
+- [Nevada](https://publicrelationsregistry.org/jurisdictions/united-states/nevada/)
+- [New Jersey](https://publicrelationsregistry.org/jurisdictions/united-states/new-jersey/)
+- [New York](https://publicrelationsregistry.org/jurisdictions/united-states/new-york/)
+- [Pennsylvania](https://publicrelationsregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Texas](https://publicrelationsregistry.org/jurisdictions/united-states/texas/)
+- [Washington](https://publicrelationsregistry.org/jurisdictions/united-states/washington/)
+- [Wyoming](https://publicrelationsregistry.org/jurisdictions/united-states/wyoming/)
+
+## Interpretation guidance
+
+- Treat the International and Europe records as cross-border and regional reference layers; use country, state or provincial records for local operating context.
+- Treat United Kingdom, Canada and United States records as national reference layers; use the linked constituent nation, province or state records for local operating context where available.
+- Do not infer that a service is licensed merely because a record describes regulation affecting communications activities.
+- Do not treat a professional association’s ethical code as a statute unless a contract, employment policy, membership condition or local law makes it binding in the relevant context.
+- For influencer, creator, affiliate, sponsored, gifted, testimonial and review activity, assess material-connection disclosure, substantiation and local consumer or advertising rules in every relevant jurisdiction.
+- For personal data, analytics, cookies, targeting, CRM, email, SMS, calls and direct messages, assess the relevant privacy and electronic-marketing law for each affected jurisdiction.
+- For public affairs, identify the actual institution and public office holder before assessing lobbying registration, reporting, transparency, procurement, political activity or integrity requirements.
+- For financial, healthcare, environmental, energy, product, sustainability, safety and other regulated claims, obtain appropriate country and sector review before relying on a registry summary.
+
+## Editorial status
+
+Public Relations Registry records are maintained as structured editorial references. Legal, regulatory, authority, platform, professional-code and market information can change. Verify the current primary source and obtain qualified local advice for a specific activity or decision.
