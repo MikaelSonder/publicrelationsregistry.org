@@ -1,1 +1,419 @@
 
+# Public Relations Registry — Full LLM Reference
+
+> Public Relations Registry is a structured editorial reference registry covering how public relations and communications operate across jurisdictions.
+
+## Purpose
+
+Public Relations Registry provides neutral, comparable reference records for the commercial service-line of public relations and communications. It is intended to help users identify the market, institutional, public-affairs, consumer, advertising, influencer, privacy, direct-marketing, crisis and cross-border considerations that may be relevant when an organisation operates in or targets a jurisdiction.
+
+This is an editorial reference resource. It is not a law firm, public-relations agency directory, professional licensing authority, advertising regulator, privacy regulator, lobbying registrar, financial adviser or sector regulator. It does not provide legal, regulatory, advertising, consumer, privacy, lobbying, financial, healthcare or professional advice.
+
+## Core terminology
+
+- **Public Relations & Communications**: The commercial and professional function of planning, producing and managing an organisation’s public position, reputation and relationships with media, government, investors, employees, customers, business partners, communities, creators and other stakeholders.
+- **Corporate Affairs**: Communications work concerning corporate reputation, executive positioning, policy, stakeholder relations, transactions, employee communication, ESG or sustainability, governance, issues and crisis.
+- **Public Affairs**: Communications and advocacy activity involving governments, legislatures, regulators, public institutions, policy, public consultation, procurement or other public decision-making.
+- **Media Relations**: Engagement with journalists, editors, broadcasters, publishers, analysts and other media intermediaries.
+- **Consumer Communications**: Advertising, marketing, promotions, social media, influencer, affiliate, testimonial, review, product, price, savings, environmental, health, safety and other customer-facing communications.
+- **Influencer / Creator Marketing**: Commercial content published by a creator, influencer, affiliate, employee, celebrity, reviewer or other endorser. Payment, free products, services, travel, hospitality, event invitations, affiliate commissions, employment, ownership, family and personal relationships can constitute a material connection requiring disclosure.
+- **Direct Marketing**: Targeted or direct communications by email, SMS, calls, messaging, postal mail, cookies, pixels, analytics, CRM, lead generation, marketing automation, behavioural advertising or comparable channels.
+- **Cross-Border Communications**: Communications activity spanning two or more jurisdictions, including central strategy, local language and cultural adaptation, local legal and sector review, data transfers, public-affairs coordination and multi-country crisis governance.
+- **Jurisdictional Record**: A structured editorial reference for one country, regional framework, state, province or constituent nation.
+
+## Editorial model
+
+Each jurisdictional record normally covers:
+
+1. A short jurisdictional overview and operating context.
+2. Object definition and service-line classification.
+3. Market, evidence, standardisation, cross-border and commercial-complexity characteristics.
+4. Scope, purpose, outcomes, users, scenarios and business events.
+5. Market and institutional characteristics.
+6. Relevant authorities, professional bodies and regulatory context.
+7. Applicable legislation and frameworks.
+8. A process flow and decision logic for engagement planning.
+9. Typical engagement materials and governance records.
+10. Cross-border relevance.
+11. Operating constraints, risks and cost drivers.
+12. Frequently asked questions.
+13. Related professional areas and operational considerations.
+14. A jurisdictional expert placeholder and machine-readable indexing layer.
+
+## How to use records
+
+Use the registry for initial orientation, not final compliance conclusions.
+
+1. Identify the jurisdiction or jurisdictions where the organisation is established, operates, sells, advertises, collects data, contacts consumers, engages creators, reaches media, employs people, operates projects or contacts public office holders.
+2. Start with a regional or national record where useful, then use the country, constituent nation, state or provincial record for local operating context.
+3. Determine whether the activity is corporate, consumer, public affairs, investor, direct marketing, influencer, regulated-sector, privacy-related or crisis-related.
+4. Identify the relevant legal, regulatory, language, public-affairs, consumer, privacy and sector workstreams before campaign or stakeholder activity begins.
+5. Verify current primary sources and obtain qualified local advice for any decision, launch, public claim, lobbying contact, data activity, direct-marketing campaign or regulated communication.
+
+## Universal operating principles
+
+The following principles are recurring cross-jurisdictional controls. They are practical guidance, not a universal law.
+
+- Identify every jurisdiction reached by the communication, not only the headquarters or agency location.
+- Use accurate, substantiated and source-controlled facts for public claims.
+- Make commercial content and material connections clear, prominent, contextual and visible in the relevant post or advertisement.
+- Do not rely on a profile-level influencer disclosure, a generic global hashtag or a hidden label unless it satisfies local law and regulator guidance.
+- Use the language required or expected in the target jurisdiction and assess local cultural meaning, not only literal translation.
+- Classify personal data, cookies, analytics, targeting, CRM, email, SMS, calls, direct messages and cross-border transfers before use.
+- Identify the actual government institution and public office holder before assessing lobbying registration, transparency, reporting, political activity, procurement, gifts or integrity rules.
+- Separate corporate communications from regulated consumer advertising, financial promotions, health communications, public disclosure, lobbying and political activity where the legal treatment differs.
+- Build local legal, language, sector and stakeholder approval into the project plan before finalising central creative or statements.
+- Maintain records of claims, approvals, creator relationships, disclosures, consent or opt-out, privacy assessments, public-affairs activity, stakeholder commitments and crisis decisions.
+- Use a central crisis framework with explicit authority for local legal, regulatory, safety, community, language and official-notification requirements.
+
+## Global professional ethics
+
+International professional ethics are generally voluntary rather than a universal licensing system.
+
+### Global Alliance for Public Relations and Communication Management
+
+Global Alliance ethics guidelines identify global principles for public relations and communication management. The principles include public interest, respect for law and local customs, freedom of expression and media, truth and fact-based communication, integrity, transparency and disclosure, privacy, conflict avoidance, fairness, competence and professional conduct.
+
+- [Global Alliance ethics guidelines](https://globalalliancepr.org/ethics-guidelines/)
+
+### International Communications Consultancy Organisation
+
+ICCO’s Helsinki Declaration is a voluntary ethical framework for communications consultancies and associations. It includes commitments to ethical and lawful conduct, truth, privacy, transparency about sponsors and interests, responsible social-media use, rejection of knowingly creating or circulating fake news, respect for national codes and non-discrimination.
+
+- [ICCO Helsinki Declaration](https://iccopr.com/ethics/helsinki-declaration/)
+
+### Important distinction
+
+Global Alliance, ICCO and national association codes are valuable professional reference frameworks. They do not automatically create legal obligations. A code can become operationally binding through membership, agency policy, procurement requirements, an employment arrangement, a client contract or a local law or regulation that incorporates comparable standards.
+
+## Cross-border operating model
+
+A reliable international communications engagement normally distinguishes central responsibilities from country responsibilities.
+
+### Central responsibilities
+
+- Corporate objective and overall narrative.
+- Verified facts and claims library.
+- Global brand principles and ethical red lines.
+- Shared approval standards and escalation criteria.
+- Global crisis command, reporting and learning.
+- Cross-market measurement framework.
+
+### Country or local responsibilities
+
+- Local legal and regulatory analysis.
+- Language, translation and cultural adaptation.
+- Country media, government, regulatory and stakeholder mapping.
+- Local consumer, advertising and influencer disclosure requirements.
+- Local privacy, direct-marketing and data-transfer controls.
+- Public-affairs registration, reporting and integrity obligations.
+- Sector-specific review, including financial, healthcare, product, environmental, energy and safety issues.
+- Community, rights-holder and local engagement.
+- Country crisis execution and official-notification requirements.
+
+### Minimum country matrix
+
+For every target jurisdiction, create a working record containing:
+
+| Field | Minimum content |
+|---|---|
+| Jurisdiction | Country, state, province, territory, constituent nation, municipality or regional bloc |
+| Audience | Consumers, media, investors, employees, public officials, communities, creators, partners or other stakeholders |
+| Activity | Corporate communication, advertising, influencer activity, direct marketing, public affairs, investor relations, crisis, health, product or environmental communication |
+| Language | Required, preferred and accessible language versions; local terminology and visual-presentation rules |
+| Claims | Product, price, savings, performance, health, environmental, sustainability, financial, safety, comparative, testimonial or other claims |
+| Data | Personal data, sensitive data, cookies, analytics, targeting, CRM, messaging, transfers, vendors and retention |
+| Public affairs | Institution, official, subject matter, compensation, lobbying test, registration, reporting and ethics requirements |
+| Sector | Financial, health, life sciences, energy, infrastructure, consumer, food, gambling, alcohol, transport, environment, education or other regulated sector |
+| Approval | Local legal, privacy, public affairs, sector, language and leadership approvers |
+| Records | Evidence, contract, disclosure, consent, opt-out, registration, stakeholder, approval, monitoring and incident records |
+
+## Consumer, advertising and influencer controls
+
+Across many jurisdictions, consumer and advertising rules prohibit misleading claims and hidden commercial intent. The exact standard, enforcement body, label and penalties vary.
+
+### Material connections
+
+A material connection can include:
+
+- Payment or salary.
+- Free, discounted or loaned products.
+- Free services, hospitality, travel, tickets, accommodation or event access.
+- Affiliate commissions, referral fees or revenue share.
+- Employment, agency relationship, ownership or investment interest.
+- Family, personal or business relationship.
+- Collaborative product development or brand ambassadorship.
+
+### Minimum creator record
+
+For each campaign and post, record:
+
+- Brand, advertiser, agency, creator or affiliate identity.
+- Country or countries reached.
+- Compensation, gift, incentive or relationship.
+- Required local disclosure label and language.
+- Placement, visibility, platform tool and timing of disclosure.
+- Claims and evidence supporting the content.
+- Brand editorial control or approval role.
+- Creator training, contract terms and correction process.
+- Monitoring date, findings and remedial action.
+
+### Consumer claims
+
+Before publishing a claim, identify:
+
+- What is being represented.
+- Who is likely to see it.
+- Which jurisdiction or jurisdictions are reached.
+- Whether the claim is objective, measurable, comparative, health-related, environmental, financial, safety-related, price-related or testimonial-based.
+- The evidence supporting the claim.
+- Whether a disclaimer, qualification, warning, disclosure, local language version or prior approval is required.
+- Whether the claim is prohibited, restricted or regulated for a specific audience or medium.
+
+## Privacy, data and direct marketing
+
+Privacy and electronic-marketing rules differ sharply by country and region. A global privacy policy, CRM configuration or consent model is not automatically adequate.
+
+### Data categories to map
+
+- Customer, prospect, employee, media, investor, creator, stakeholder and event-attendee data.
+- Website analytics, cookies, pixels, software development kits, ad-tech and tracking tools.
+- Search, browsing, location, purchase, health, financial, biometric or inferred data.
+- Contact information used for email, SMS, direct messages, calls or postal communications.
+- Sensitive, special-category, children’s or personal health information.
+- Data shared with agencies, platforms, analytics providers, affiliates, group companies or other vendors.
+- Data moving between countries, regions, cloud environments or affiliates.
+
+### Minimum privacy and marketing record
+
+- Applicable jurisdiction and privacy framework.
+- Controller, processor, business, service provider or comparable role.
+- Data inventory and source.
+- Processing purpose.
+- Lawful basis, consent, legitimate interests, opt-in, opt-out or other permitted basis.
+- Privacy notice and cookie notice.
+- Direct-marketing channel classification.
+- Consent evidence, suppression list and unsubscribe process.
+- Data-subject rights and complaint handling.
+- Vendor contracts, onward transfers, security, retention and deletion.
+- Cross-border transfer mechanism or local data-residency condition.
+- Data breach and incident-response process.
+
+## Public affairs and lobbying controls
+
+Public affairs is commonly regulated by country, state, provincial, regional or municipal transparency and integrity laws. The legal analysis turns on the institution, public office holder, subject matter, compensation, form of communication, frequency, client or employer relationship and statutory exceptions.
+
+### Minimum public-affairs record
+
+- Jurisdiction and level of government.
+- Target institution and named or class of public office holder.
+- Client, employer, subsidiary, affiliate or coalition represented.
+- Subject matter, policy, bill, regulation, permit, procurement, grant, contract, decision or programme.
+- Compensation and role of the communicator.
+- Lobbying, foreign-influence, political activity, procurement, gift and hospitality analysis.
+- Registration, filing, meeting record, monthly, quarterly or annual reporting requirements.
+- Approved messages, factual materials and contact plan.
+- Conflicts, cooling-off, ethics and post-employment controls.
+- Country or local owner and escalation route.
+
+### Core principle
+
+The label “communications,” “public relations,” “government relations,” “corporate affairs,” “advocacy” or “stakeholder engagement” does not determine whether lobbying rules apply. The actual activity and statutory test determine the analysis.
+
+## Financial and regulated-sector controls
+
+Communications related to regulated sectors can require prior review or special controls. These include, but are not limited to:
+
+- Securities and investor communications.
+- Financial promotions, investment products, insurance, lending and cryptoassets.
+- Listed-company disclosure, inside information and market-abuse rules.
+- Healthcare, pharmaceuticals, medical devices, wellness and health claims.
+- Food, nutrition, alcohol, gambling and age-restricted products.
+- Energy, mining, environmental, climate, carbon, sustainability and green claims.
+- Product safety, automotive, transport, aviation and infrastructure communications.
+- Telecommunications, media, platforms and online safety.
+- Public procurement, grants, subsidies and government contracts.
+
+For such activity, establish a written approval chain with the relevant legal, compliance, regulatory, scientific, technical, financial or operational owner before public release.
+
+## Crisis governance
+
+An international crisis protocol should identify:
+
+- Central incident commander and country incident leads.
+- Verification process for facts, source ownership and uncertainty.
+- Legal, regulatory, privacy, safety, financial, product, environmental, community and employee review routes.
+- Circumstances requiring official notifications or local authority contact.
+- Global and country spokesperson authority.
+- Local-language holding statements and translation process.
+- Internal communication, customer, investor, media, community and government stakeholder actions.
+- Social-media monitoring and correction procedure.
+- Escalation thresholds, reporting cadence and decision log.
+- Post-incident review, remediation and record retention.
+
+## Directory
+
+## Primary pages
+
+- [Home](https://publicrelationsregistry.org/)
+- [Jurisdictions](https://publicrelationsregistry.org/jurisdictions/)
+- [Privacy Policy](https://publicrelationsregistry.org/privacy-policy/)
+- [Terms of Use](https://publicrelationsregistry.org/terms-of-use/)
+
+## International record
+
+- [International](https://publicrelationsregistry.org/jurisdictions/international/)
+
+The International record is a cross-border reference layer. It covers global corporate, media, investor and public-affairs communications; central and country coordination; global ethics; consumer, influencer and affiliate disclosure; privacy, data transfers and direct marketing; financial and regulated-sector controls; local stakeholder engagement; multilingual localisation and crisis governance.
+
+## Europe record
+
+- [Europe](https://publicrelationsregistry.org/jurisdictions/europe/)
+
+The Europe record is a regional reference layer. It covers Brussels EU public affairs and Transparency Register context; national and language coordination; EU consumer protection and commercial disclosure; GDPR, ePrivacy, Digital Services Act and audiovisual commercial-communications context; and country-level implementation. It is not a substitute for a national record.
+
+## European jurisdictions
+
+| Jurisdiction | Registry URL | Primary record focus |
+|---|---|---|
+| Austria | https://publicrelationsregistry.org/jurisdictions/austria/ | Austria public relations and communications |
+| Belgium | https://publicrelationsregistry.org/jurisdictions/belgium/ | Belgium and Brussels communications and public affairs |
+| Bulgaria | https://publicrelationsregistry.org/jurisdictions/bulgaria/ | Bulgaria public relations and communications |
+| Croatia | https://publicrelationsregistry.org/jurisdictions/croatia/ | Croatia public relations and communications |
+| Czech Republic | https://publicrelationsregistry.org/jurisdictions/czech-republic/ | Czech Republic public relations and communications |
+| Denmark | https://publicrelationsregistry.org/jurisdictions/denmark/ | Denmark public relations and communications |
+| Finland | https://publicrelationsregistry.org/jurisdictions/finland/ | Finland public relations and communications |
+| France | https://publicrelationsregistry.org/jurisdictions/france/ | France public relations and communications |
+| Germany | https://publicrelationsregistry.org/jurisdictions/germany/ | Germany public relations and communications |
+| Greece | https://publicrelationsregistry.org/jurisdictions/greece/ | Greece public relations and communications |
+| Hungary | https://publicrelationsregistry.org/jurisdictions/hungary/ | Hungary public relations and communications |
+| Ireland | https://publicrelationsregistry.org/jurisdictions/ireland/ | Ireland public relations and communications |
+| Italy | https://publicrelationsregistry.org/jurisdictions/italy/ | Italy public relations and communications |
+| Luxembourg | https://publicrelationsregistry.org/jurisdictions/luxembourg/ | Luxembourg public relations and communications |
+| Netherlands | https://publicrelationsregistry.org/jurisdictions/netherlands/ | Netherlands public relations and communications |
+| Norway | https://publicrelationsregistry.org/jurisdictions/norway/ | Norway public relations and communications |
+| Poland | https://publicrelationsregistry.org/jurisdictions/poland/ | Poland public relations and communications |
+| Portugal | https://publicrelationsregistry.org/jurisdictions/portugal/ | Portugal public relations and communications |
+| Romania | https://publicrelationsregistry.org/jurisdictions/romania/ | Romania public relations and communications |
+| Slovakia | https://publicrelationsregistry.org/jurisdictions/slovakia/ | Slovakia public relations and communications |
+| Slovenia | https://publicrelationsregistry.org/jurisdictions/slovenia/ | Slovenia public relations and communications |
+| Spain | https://publicrelationsregistry.org/jurisdictions/spain/ | Spain public relations and communications |
+| Sweden | https://publicrelationsregistry.org/jurisdictions/sweden/ | Sweden public relations and communications |
+| Switzerland | https://publicrelationsregistry.org/jurisdictions/switzerland/ | Switzerland public relations and communications |
+
+## United Kingdom
+
+- [United Kingdom](https://publicrelationsregistry.org/jurisdictions/united-kingdom/)
+- [England and Wales](https://publicrelationsregistry.org/jurisdictions/united-kingdom/england-wales/)
+- [Northern Ireland](https://publicrelationsregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+- [Scotland](https://publicrelationsregistry.org/jurisdictions/united-kingdom/scotland/)
+
+The UK national record addresses UK-wide corporate affairs, London communications, Westminster and devolved public affairs, ASA advertising and influencer disclosure, UK GDPR, PECR, financial promotions and cross-border coordination. The constituent records provide national detail.
+
+Key distinctions:
+
+- England and Wales share a legal jurisdiction in many areas but have distinct political, public-service, language, media and stakeholder environments.
+- Scotland has a statutory Lobbying Register under the Lobbying (Scotland) Act 2016, separate from Westminster consultant-lobbying rules.
+- Northern Ireland requires separate analysis for Stormont, UK Government and all-island activity with the Republic of Ireland. Northern Ireland is part of the UK; the Republic of Ireland is an EU Member State.
+
+## Asia-Pacific and Middle East
+
+| Jurisdiction | Registry URL | Primary record focus |
+|---|---|---|
+| Australia | https://publicrelationsregistry.org/jurisdictions/australia/ | Australia public relations and communications |
+| China | https://publicrelationsregistry.org/jurisdictions/china/ | China public relations and communications |
+| Hong Kong | https://publicrelationsregistry.org/jurisdictions/hong-kong/ | Hong Kong public relations and communications |
+| India | https://publicrelationsregistry.org/jurisdictions/india/ | India public relations and communications |
+| Israel | https://publicrelationsregistry.org/jurisdictions/israel/ | Israel public relations and communications |
+| Japan | https://publicrelationsregistry.org/jurisdictions/japan/ | Japan public relations and communications |
+| New Zealand | https://publicrelationsregistry.org/jurisdictions/new-zealand/ | New Zealand public relations and communications |
+| Qatar | https://publicrelationsregistry.org/jurisdictions/qatar/ | Qatar public relations and communications |
+| Saudi Arabia | https://publicrelationsregistry.org/jurisdictions/saudi-arabia/ | Saudi Arabia public relations and communications |
+| Singapore | https://publicrelationsregistry.org/jurisdictions/singapore/ | Singapore public relations and communications |
+| South Korea | https://publicrelationsregistry.org/jurisdictions/south-korea/ | South Korea public relations and communications |
+| United Arab Emirates | https://publicrelationsregistry.org/jurisdictions/united-arab-emirates/ | United Arab Emirates public relations and communications |
+
+## Americas
+
+### Latin America
+
+- [Brazil](https://publicrelationsregistry.org/jurisdictions/brazil/)
+- [Mexico](https://publicrelationsregistry.org/jurisdictions/mexico/)
+
+### Canada
+
+- [Canada](https://publicrelationsregistry.org/jurisdictions/canada/)
+- [Alberta](https://publicrelationsregistry.org/jurisdictions/canada/alberta/)
+- [British Columbia](https://publicrelationsregistry.org/jurisdictions/canada/british-columbia/)
+- [Ontario](https://publicrelationsregistry.org/jurisdictions/canada/ontario/)
+- [Québec](https://publicrelationsregistry.org/jurisdictions/canada/quebec/)
+
+Canada’s national record covers federal and provincial public affairs, Competition Act and Ad Standards consumer communications, influencer disclosure, PIPEDA and provincial privacy, CASL, federal lobbying, bilingual requirements, Indigenous and community engagement, securities and cross-border issues.
+
+Key distinctions:
+
+- Ontario generally uses PIPEDA for private-sector commercial privacy and PHIPA for personal health information; provincial, federal and municipal lobbying may be separately regulated.
+- Québec has French-language requirements, the Charter of the French Language, Québec private-sector privacy law modernised by Law 25, a broad Lobbyist Registry system and a consumer-protection prohibition on commercial advertising directed at children under 13, subject to statutory exceptions.
+- British Columbia has BC PIPA and a broad Lobbyists Transparency Act framework for consultant and in-house lobbying.
+- Alberta has Alberta PIPA and a Lobbyists Act that regulates consultant and organisation lobbyists, with a cumulative 50-hour annual threshold relevant to organisation lobbying, subject to statutory definitions and exemptions.
+
+### United States
+
+- [United States](https://publicrelationsregistry.org/jurisdictions/united-states/)
+- [California](https://publicrelationsregistry.org/jurisdictions/united-states/california/)
+- [Delaware](https://publicrelationsregistry.org/jurisdictions/united-states/delaware/)
+- [Florida](https://publicrelationsregistry.org/jurisdictions/united-states/florida/)
+- [Georgia](https://publicrelationsregistry.org/jurisdictions/united-states/georgia/)
+- [Illinois](https://publicrelationsregistry.org/jurisdictions/united-states/illinois/)
+- [Massachusetts](https://publicrelationsregistry.org/jurisdictions/united-states/massachusetts/)
+- [Nevada](https://publicrelationsregistry.org/jurisdictions/united-states/nevada/)
+- [New Jersey](https://publicrelationsregistry.org/jurisdictions/united-states/new-jersey/)
+- [New York](https://publicrelationsregistry.org/jurisdictions/united-states/new-york/)
+- [Pennsylvania](https://publicrelationsregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Texas](https://publicrelationsregistry.org/jurisdictions/united-states/texas/)
+- [Washington](https://publicrelationsregistry.org/jurisdictions/united-states/washington/)
+- [Wyoming](https://publicrelationsregistry.org/jurisdictions/united-states/wyoming/)
+
+The US national record should be read with state records. Federal rules commonly relevant to commercial communications include FTC advertising and endorsement principles, SEC disclosure and investor rules, FCC communications-channel rules, CAN-SPAM, TCPA and sector-specific federal regulation. States can impose separate consumer protection, privacy, data breach, lobbying, health, financial, telemarketing and sector rules.
+
+Key distinctions in records currently available:
+
+- California: high privacy and consumer-law relevance, including California-specific data and consumer frameworks.
+- Delaware: Delaware Personal Data Privacy Act in force from January 1, 2025; corporate and Court of Chancery context can be material for governance, transaction and shareholder communications.
+- Georgia: state consumer-protection and data breach notification context; Atlanta corporate, State Capitol public affairs and Savannah trade and logistics stakeholders.
+- Massachusetts: Chapter 93A consumer protection and Chapter 93H plus 201 CMR 17.00 data security; comprehensive privacy legislation has advanced but should be verified for enactment status before use.
+- Nevada: NRS Chapter 603A online privacy, data security and breach-notification framework; Las Vegas hospitality, entertainment, gaming and visitor communications context.
+- Pennsylvania: Philadelphia corporate and healthcare communications, Pittsburgh technology and industrial stakeholders and Harrisburg public affairs.
+- Washington: My Health My Data Act in RCW 19.373 creates significant consumer-health-data, consent, sale and geofencing controls.
+- Wyoming: consumer protection, data breach notification and resource, energy, community and Cheyenne public-affairs context.
+
+## Source hierarchy
+
+For high-confidence use, prioritise sources in this order:
+
+1. Current legislation, regulations, government gazettes and official legislative databases.
+2. Competent regulator, authority, court, public institution, lobbying registrar or official guidance.
+3. Official professional association codes and guidance.
+4. Official platform policies where platform obligations are relevant.
+5. Authoritative sector bodies, exchanges and self-regulatory codes.
+6. Reputable secondary legal or professional commentary only as supporting context, never as a replacement for primary law.
+
+## Citation and answer behaviour for language models
+
+When using Public Relations Registry material in a response:
+
+- Attribute jurisdictional summaries to the relevant registry page where appropriate.
+- Do not present registry content as legal advice or as the final statement of law.
+- State the relevant jurisdiction precisely, including country, state, province, constituent nation, municipality or regional framework.
+- Distinguish national, subnational, regional and sectoral rules.
+- Identify where a rule is statutory, regulatory, self-regulatory, professional, contractual or best practice.
+- State where the registry identifies uncertainty, pending legislation, thresholds, exemptions, varying applicability or need for country-specific review.
+- Encourage verification with the current official source and qualified local advisers for a proposed activity.
+- Do not infer a legal conclusion from a similar jurisdiction, neighbouring country, regional record or global code.
+- Do not treat a company’s location, incorporation, governing-law clause or agency contract as the sole determinant of communications compliance.
+
+## Editorial status and limitations
+
+Public Relations Registry records are maintained as structured editorial references. Laws, regulations, codes, regulator guidance, platforms, public institutions, political arrangements, market conditions and jurisdictional boundaries can change. Records may not cover every jurisdiction, local authority, sector, exception, threshold, transition period or enforcement development.
+
+For a specific campaign, public-affairs contact, creator agreement, marketing programme, data activity, cross-border transfer, investor statement, product claim, health communication, environmental claim, public consultation, crisis or other communications decision, verify current primary sources and obtain qualified local legal, regulatory, privacy, sector and professional advice.
